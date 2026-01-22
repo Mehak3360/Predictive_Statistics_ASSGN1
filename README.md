@@ -24,8 +24,9 @@
 6. **Result Analysis**
    - Optimized parameters are obtained and analyzed.
    - Histogram and fitted curve are used for visualization.
+   - output:
+    <img width="223" height="57" alt="image" src="https://github.com/user-attachments/assets/2049ce73-47d9-4c29-81dd-21c3645a3fa9" />
 
-     
 ## Results and Visualization
 
 ### Histogram of Transformed NO₂ Data
