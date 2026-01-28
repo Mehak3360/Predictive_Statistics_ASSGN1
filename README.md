@@ -1,5 +1,13 @@
  # Probability Density Functions
  
+ ## Objective 
+  The objective of this assignment is to learn a probability density function (PDF) from real-world data using a roll-number-dependent non-linear transformation. The assignment demonstrates how statistical estimation techniques can be used to model data distributions after applying a controlled transformation.
+ 
+ ## Dataset
+  - **Source**: India Air Quality Data (Kaggle)
+  - **Feature Used**: NO2 (Nitrogen Dioxide concentration)
+  - **Link**: https://www.kaggle.com/datasets/shrutibhargava94/india-air-quality-data  
+ 
  ## Methodology
 1. **Data Loading**
    - The dataset is loaded using Pandas.
